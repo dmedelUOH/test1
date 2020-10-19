@@ -1,3 +1,3 @@
 def hola_mundo(mensaje):
-    print("esto es una prueba")
+    print("esto es una OKA")
     print("hola mundo")
